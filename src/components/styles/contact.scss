@@ -1,0 +1,5 @@
+@use './helpers/mixins.scss' as m;
+
+#contact{
+    @include m.pageLandingStyle;
+}
